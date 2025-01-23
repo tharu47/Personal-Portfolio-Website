@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0fae104d.css",
+    "main.js": "/static/js/main.56c0fa99.js",
+    "static/js/488.9d98adba.chunk.js": "/static/js/488.9d98adba.chunk.js",
+    "static/media/lmsimg.png": "/static/media/lmsimg.80e7073bd19ad9b5c743.png",
+    "static/media/myimgss.png": "/static/media/myimgss.6adb0ef3647b2b0e0e2b.png",
+    "static/media/ppass.png": "/static/media/ppass.46b7cae499c26ee06eb5.png",
+    "static/media/Resturent.png": "/static/media/Resturent.05a38af82274984f9247.png",
+    "static/media/pngjava.png": "/static/media/pngjava.ee2b30968ee8bdc7799f.png",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/ppareact.png": "/static/media/ppareact.c2358c7dfd5b025e8e07.png",
+    "static/media/mysql.png": "/static/media/mysql.167c88550478e6f0f85c.png",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/itassets.png": "/static/media/itassets.2587a7cd6cd61bfbd889.png",
+    "static/media/pngcc.png": "/static/media/pngcc.5a3ea41e0b6b83784311.png",
+    "static/media/mssql.png": "/static/media/mssql.753c3adb40e9d68fb78e.png",
+    "static/media/my.png": "/static/media/my.9ef6c79c921df0143540.png",
+    "static/media/php.png": "/static/media/php.b59deec830f215d303b4.png",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/pngcss.png": "/static/media/pngcss.9407ad358cdb22b8b1f0.png",
+    "static/media/react.png": "/static/media/react.20adfb35ae6a6e5817bf.png",
+    "static/media/cplus.png": "/static/media/cplus.1240ce157b70fb399c6c.png",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/pngjs.png": "/static/media/pngjs.3cacb63905f322fb3541.png",
+    "static/media/python.png": "/static/media/python.91fe66c93d19d67edfc8.png",
+    "static/media/wordpress.png": "/static/media/wordpress.11ed091523e3152b651f.png",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/index.html",
+    "main.0fae104d.css.map": "/static/css/main.0fae104d.css.map",
+    "main.56c0fa99.js.map": "/static/js/main.56c0fa99.js.map",
+    "488.9d98adba.chunk.js.map": "/static/js/488.9d98adba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fae104d.css",
+    "static/js/main.56c0fa99.js"
+  ]
+}
